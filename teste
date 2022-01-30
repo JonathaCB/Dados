@@ -1,5 +1,0 @@
-var a = 5;
-var b = 20;
-var b /= a++;
-
-Console.log(a + b);
